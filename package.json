@@ -1,0 +1,37 @@
+{
+  "name": "forumbase",
+  "author": "Kleverton Oliveira",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@ajna/pagination": "^1.4.13",
+    "@chakra-ui/icons": "^1.1.1",
+    "@chakra-ui/react": "^1.7.3",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "date-diff": "^1.0.2",
+    "firebase": "^9.23.0",
+    "firebase-admin": "^11.11.0",
+    "firebase-tools": "^12.7.0",
+    "formik": "^2.2.9",
+    "framer-motion": "^4",
+    "next": "^12.3.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-helmet": "^6.1.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.7",
+    "@types/react": "17.0.37",
+    "@types/react-helmet": "^6.1.6",
+    "react-icons": "^4.3.1",
+    "typescript": "4.4.4"
+  }
+}
