@@ -95,11 +95,7 @@ or
 npm run dev
 ```
 
-## :raising_hand_man: Author
 
-José Kleverton Yvens Oliveira
-
-https://www.linkedin.com/in/klevertonoliveira/
 
 ---
 ---
@@ -173,9 +169,6 @@ ou
 npm run dev
 ```
 
-## :raising_hand_man: Autor
 
-José Kleverton Yvens Oliveira
 
-https://www.linkedin.com/in/klevertonoliveira/
 
